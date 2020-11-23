@@ -1,3 +1,23 @@
+* {
+ font-family: "Roboto", sans-serif; 
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.container {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-center {
+  text-align: center;
+}
+
 body {
   background-image: url("https://www.tuxgroup.ir/uploads/background-github.jpg");
   background-size: cover;
